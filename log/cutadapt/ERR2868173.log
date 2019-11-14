@@ -1,7 +1,7 @@
 This is cutadapt 2.5 with Python 3.7.3
 Command line parameters: -m 20 -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o out/cutadapt/ERR2868173_1.trimmed.fastq.gz -p out/cutadapt/ERR2868173_2.trimmed.fastq.gz data/ERR2868173_1.fastq.gz data/ERR2868173_2.fastq.gz
 Processing reads on 1 core in paired-end mode ...
-Finished in 6.56 s (22 us/read; 2.74 M reads/minute).
+Finished in 12.58 s (42 us/read; 1.43 M reads/minute).
 
 === Summary ===
 
