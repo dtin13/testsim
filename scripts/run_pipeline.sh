@@ -18,7 +18,7 @@ echo
 done
 
 echo "REPORTE DEL PROCESO..."
-multiqc -o out/multiqc .
+multiqc -o out/multiqc ./
 mkdir -p envs
 conda env export > envs/rna-seq.yaml
 

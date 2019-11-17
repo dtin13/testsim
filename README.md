@@ -1,4 +1,3 @@
-HOLA PRUEBA
 # RNA-seq analysis of E. coli with over-expressed DNA-damage handling proteins
 
 ## Introduction
@@ -232,4 +231,4 @@ When you are done, your working directory should look something like this:
     ├── analyse_sample.sh
     └── run_pipeline.sh
 ```
-HOLAA
+
